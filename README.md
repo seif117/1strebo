@@ -429,7 +429,7 @@ Dr. Maximilian Pelka-->
              <a href="https://twitter.com/FCBayern"> TWITTER</a>
 
              <h4>Thanks you for reaching this point:)</h4>
-             <p>Website by: Seif Okasha</p>
+             <p>Website by: Seif </p>
              <p>To connetct via:</p>
              <a href="https://www.instagram.com/pvs1__/">INSTGRAM</a>
           
